@@ -1,0 +1,11 @@
+{
+    "CreateNewTrialSelectors": {
+        "NewTrialSelector": "//button[@aria-label='New Trial']",
+        "TrialTitleSelector": "//textarea[@aria-label='Trial Title']",
+        "WebsiteTitleSelector": "//textarea[@aria-label='Website Title']",    
+        "ProtocolStatusSelector": "button[data-id='cruk_pic_protocol_status.fieldControl-option-set-select']",
+        "PhaseSelector":"button[data-id='cruk_pic_phase.fieldControl-option-set-select']",
+        "SaveandCloseSelector":"//button[@aria-label='Save & Close']",
+        "SampleTestSelector":"//a[@aria-label='sample Test']"
+    }
+}
